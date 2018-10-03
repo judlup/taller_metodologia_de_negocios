@@ -2,4 +2,6 @@
 
 Taller Modelo de negocios desarrollado en el marco del evento Hult Prize UPB en Bucaramanga.
 
-[](https://raw.githubusercontent.com/judlup/taller_metodologia_de_negocios/master/Poster.jpg)
+![](https://raw.githubusercontent.com/judlup/taller_metodologia_de_negocios/master/Poster.jpg)
+
+![](https://raw.githubusercontent.com/judlup/taller_metodologia_de_negocios/master/imagen.jpg)
